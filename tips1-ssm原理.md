@@ -8,11 +8,11 @@ SSM框架是spring MVC ，spring和mybatis框架的整合，是标准的MVC模�
 
 ## ssm能做什么？
 
-第一个S：使用spring MVC负责请求的转发和视图的管理
+第一个 S：使用spring MVC负责请求的转发和视图的管理
 
-第二个S：spring实现业务对象管理
+第二个 S：spring实现业务对象管理
 
-剩下的M：mybatis作为数据对象的持久化引擎
+剩下的 M：mybatis作为数据对象的持久化引擎
 
 
 原理：
