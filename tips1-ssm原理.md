@@ -42,6 +42,7 @@ mybatis是对jdbc的封装，它让数据库底层操作变的透明。mybatis�
 mybatis通过配置文件关联到各实体类的Mapper文件，Mapper文件中配置了每个类对数据库所需进行的sql语句映射。在每次与数据库交互时，通过sqlSessionFactory拿到一个sqlSession，再执行sql命令。
 
 
+![png](https://github.com/KamyoChae/kam-ssm/blob/master/images/ssmlive.png)
 使用方法：
 
 要完成一个功能：
