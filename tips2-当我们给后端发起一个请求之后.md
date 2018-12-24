@@ -4,6 +4,7 @@
 
 今晚看到一张图，觉得写得挺清晰的，在这里说一下自己的理解。
 
+![png](https://github.com/KamyoChae/kam-ssm/blob/master/images/ssmlive.png)
 ## 后端的流程
 首先，用户给后端发起一个请求之后，这个请求会跳到后端的分发器里面（dispacherservlet）。
 
